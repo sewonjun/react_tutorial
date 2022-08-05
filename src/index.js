@@ -1,4 +1,3 @@
-import { toHaveStyle } from "@testing-library/jest-dom/dist/matchers";
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
